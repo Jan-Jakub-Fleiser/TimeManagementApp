@@ -15,7 +15,9 @@
 
         public double SelfStudy()
         {
-            return ((NumberOfCredits * 10) / NumberOfWeeks) - ClassHoursPerWeek;
+            double result = 0;
+            result = ((NumberOfCredits * 10) / NumberOfWeeks) - ClassHoursPerWeek;
+            return result;
         }
     }
 }
