@@ -1,0 +1,14 @@
+[33mcommit ea065ff16a6fe14ae86f9b7b78881d71980881e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author:     blair <blairknox02@gmail.com>
+AuthorDate: Mon Sep 20 21:42:31 2021 +0200
+Commit:     blair <blairknox02@gmail.com>
+CommitDate: Mon Sep 20 21:42:31 2021 +0200
+
+    Requirements:
+    Visual studio 2015, 2017 or 2019
+    .Net 5.0
+    
+    Instructions:
+    1. Unzip
+    2. Double-click TimeManagementApp.sln file and visual studio will open
+    3. click run button (play button) to run the application and you can use it.
